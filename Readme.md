@@ -24,7 +24,7 @@ Modern IoT automation platform built with .NET 9, deployed on Raspberry Pi 5 wit
 
 ##  Build Status
 
-![CI/CD](https://github.com/YOUR_USERNAME/smart-home-hub/workflows/CI/badge.svg)
+![CI/CD](https://github.com/Nomat1x/smart-home-hub/workflows/CI/badge.svg)
 [![.NET](https://img.shields.io/badge/.NET-9.0-512BD4)](https://dotnet.microsoft.com/)
 
 ## 🏃 Quick Start
